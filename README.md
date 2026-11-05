@@ -75,4 +75,3 @@ flowchart LR
 | [关键产品与工程决策](docs/design-decisions.md) | 设计动机、取舍、场景例子及个人贡献 |
 | [总体架构说明](docs/architecture.md) | 总体架构图、系统分层与技术实现 |
 | [完整截图演示](docs/walkthrough.md) | 18 张真机截图，完整呈现各模块与业务流程 |
-| [产品设计演进](docs/evolution.md) | 核心设计优化、业务价值与个人贡献 |
