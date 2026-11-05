@@ -71,7 +71,7 @@ flowchart LR
 
 | 材料 | 内容 |
 | --- | --- |
-| [完整产品设计方案](docs/product-spec.md) | 功能模块、完整业务流程、材料变更处理及数据关系 |
+| [完整产品设计方案（简化版）](docs/product-spec.md) | 功能模块、完整业务流程、材料变更处理及数据关系 |
 | [关键产品与工程决策](docs/design-decisions.md) | 设计动机、取舍、场景例子及个人贡献 |
-| [总体架构说明](docs/architecture.md) | 总体架构图、系统分层与技术实现 |
+| [总体架构说明（简化版）](docs/architecture.md) | 总体架构图、系统分层与技术实现 |
 | [完整截图演示](docs/walkthrough.md) | 18 张真机截图，完整呈现各模块与业务流程 |
